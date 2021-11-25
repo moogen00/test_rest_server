@@ -1,0 +1,13 @@
+{
+  "result":[
+        {"factor_type":"timeSlot","factor_name":"점심직후","factor_name_eng":"After Lunch","factor_id":"1"},
+        {"factor_type":"perHour","factor_name":"시속 30km 이하 (예측 교통정보 고려)","factor_name_eng":"Less than 30 km/hour","factor_id":"7"},
+        {"factor_type":"destination","factor_name":"레스토랑","factor_name_eng":"Restaurant, café","factor_id":"9"},
+        {"factor_type":"destination","factor_name":"회사","factor_name_eng":"Office","factor_id":"10"},
+        {"factor_type":"destination","factor_name":"오피스 도심","factor_name_eng":"Inner-city","factor_id":"11"},
+        {"factor_type":"destination","factor_name":"집","factor_name_eng":"Home","factor_id":"12"},
+        {"factor_type":"road","factor_name":"도심","factor_name_eng":"Inner-city","factor_id":"19"},
+        {"factor_type":"tripTime","factor_name":"1시간 이상","factor_name_eng":"Over 1 hour","factor_id":"24"},
+        {"factor_type":"weather","factor_name":"눈","factor_name_eng":"Snow","factor_id":"25"}
+      ]
+}

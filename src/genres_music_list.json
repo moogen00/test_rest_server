@@ -1,0 +1,27 @@
+{
+  "desc_type": "genres",
+  "id": "18802",
+  "name": "Symphonic Metal",
+  "result": [ 
+              {
+                "recordingId": "GN92E8DJD4B6STH",
+                "recordingName": "Creek Mary's Blood [Live]",
+                "songId": "GN20YQDXWNAWFC1",
+                "songName": "Creek Mary's Blood",
+                "artistId": "GNA4G5PFAPSQKQ7",
+                "artistName": "Nightwish & John Two-Hawks",
+                "albumEditions": [ 
+                          {
+                            "album_edition_id": "GN97953AWBBJ1XQ",
+                            "tracks_ord": "16",
+                            "recording_id": "GN92E8DJD4B6STH",
+                            "track_name": "Creek Mary's Blood [Live]",
+                            "size": "XLARGE",
+                            "width": "1079",
+                            "height": "1080",
+                            "url": "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/F6DB/6261/AE60/C9E4_xlarge_front.jpg"
+                          }
+                        ]
+              } 
+            ]
+}

@@ -1,0 +1,94 @@
+{
+  "playList2": 
+  [
+    {
+      "recordingId": "GN4P6PMHTRVH987",
+      "recordingName": "Bad Boys",
+      "songId": "GNEG1KT5CFD9WWH",
+      "songName": "Bad Boys",
+      "artistId": "GNB76P884W728TM",
+      "artistName": "Bali Brahmbhatt",
+      "albumEditions": 
+        [
+          {
+            "album_edition_id": "GN6JFGG4PFCF0K7",
+            "tracks_ord": "6",
+            "recording_id": "GN4P6PMHTRVH987",
+            "track_name": "Bad Boys",
+            "size": "LARGE",
+            "width": "720",
+            "height": "720",
+            "url": "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/7D61/3461/98DF/1045_large_front.jpg"
+          }
+        ]
+    },
+    {
+      "recordingId": "FN4P6PMHTRVH987",
+      "recordingName": "Good Boys",
+      "songId": "FNEG1KT5CFD9WWH",
+      "songName": "Good Boys",
+      "artistId": "FNB76P884W728TM",
+      "artistName": "BeStream",
+      "albumEditions": 
+        [
+          {
+            "album_edition_id": "FN6JFGG4PFCF0K7",
+            "tracks_ord": "7",
+            "recording_id": "FN4P6PMHTRVH987",
+            "track_name": "Good Boys",
+            "size": "LARGE",
+            "width": "720",
+            "height": "720",
+            "url": "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/7D61/3461/98DF/1045_large_front.jpg"
+          }
+        ]
+    }
+  ],
+  "playList1": 
+  [
+    {
+      "recordingId": "GN4P6PMHTRVH987",
+      "recordingName": "Bad Boys",
+      "songId": "GNEG1KT5CFD9WWH",
+      "songName": "Bad Boys",
+      "artistId": "GNB76P884W728TM",
+      "artistName": "Bali Brahmbhatt",
+      "albumEditions": 
+        [
+          {
+            "album_edition_id": "GN6JFGG4PFCF0K7",
+            "tracks_ord": "6",
+            "recording_id": "GN4P6PMHTRVH987",
+            "track_name": "Bad Boys",
+            "size": "LARGE",
+            "width": "720",
+            "height": "720",
+            "url": "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/7D61/3461/98DF/1045_large_front.jpg"
+          }
+        ]
+    },
+    {
+      "recordingId": "FN4P6PMHTRVH987",
+      "recordingName": "Good Boys",
+      "songId": "FNEG1KT5CFD9WWH",
+      "songName": "Good Boys",
+      "artistId": "FNB76P884W728TM",
+      "artistName": "BeStream",
+      "albumEditions": 
+        [
+          {
+            "album_edition_id": "FN6JFGG4PFCF0K7",
+            "tracks_ord": "7",
+            "recording_id": "FN4P6PMHTRVH987",
+            "track_name": "Good Boys",
+            "size": "LARGE",
+            "width": "720",
+            "height": "720",
+            "url": "http://akamai-b.cdn.cddbp.net/cds/2.0/cover/7D61/3461/98DF/1045_large_front.jpg"
+          }
+        ]
+    }
+  ]
+
+}
+  

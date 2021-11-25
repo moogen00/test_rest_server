@@ -1,0 +1,14 @@
+{
+    "theme_id": "1",
+    "theme_name": "Weekend Trip - Exciting Music",
+    "pl_theme": [
+                    {
+                        "theme_id": "1",
+                        "pl_theme_id": "1",
+                        "pl_theme_name": "Exciting Music",
+                        "descriptor": ["desc1", "desc2", "desc3", "desc4", "desc5", "desc6", "desc7", "desc8"],
+                        "playList1": ["pl1", "pl2", "pl3","pl4","pl5", "pl6", "pl7", "pl8", "pl9", "pl10"],
+                        "playList2": ["pl2-1", "pl2-2"]
+                      }
+                 ]
+}

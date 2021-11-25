@@ -1,0 +1,16 @@
+{
+  "desc_type": "moods",
+  "id": "34154",
+  "name": "Healing / Dreamy / Soothing",
+  "result": [
+              {
+                "recordingId": "GN5ZDKN74AMCPY4",
+                "recordingName": "Data Track",
+                "songId": "GNF85DPV08356F1",
+                "songName": "Data Track",
+                "artistId": "GNF68J24TF77A1Q",
+                "artistName": "David Bowie",
+                "albumEditions": ["album1", "album2", "album3", "album4", "album5"]
+              }
+            ]
+}

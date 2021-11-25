@@ -1,0 +1,13 @@
+{
+  "result":
+           [
+                 {"name":"Melodic Speed Metal","id":"18801"} ,
+                 {"name":"Symphonic Metal","id":"18802"} ,
+                 {"name":"Power Metal","id":"18803"},
+                 {"name":"Surf Punk","id":"18805"},
+                 {"name":"Bay Area Punk","id":"18807"},
+                 {"name":"Neue Deutsche Welle","id":"18808"},
+                 {"name":"Post-Punk Revival","id":"18810"}
+            ]
+}
+  

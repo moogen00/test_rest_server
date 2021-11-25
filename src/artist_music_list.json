@@ -1,0 +1,14 @@
+{
+  "artist_name": "아이유",
+  "result": [
+                 {
+                      "recordingId": "GN9NQMQCWPF9P0D",
+                      "recordingName": "Celebrity",
+                      "songId": "GN8Y5HY3ZJHBMAX",
+                      "songName": "Celebrity",
+                      "artistId": "GN3FCSYRG5RMYF1",
+                      "artistName": "아이유",
+                      "albumEditions": ["album1", "album2"]
+                 }
+           ]
+}
